@@ -15,6 +15,9 @@ List of types of mounts:
 - V mount for lasers
 - Rotational gantry
 - Rotational polarizer
+- Lenses
+- Prisms
+- Mirror plates
 
 All items should be modular, for example in the case of the irises, they should fit into the lens mounts, create a generic mount and multiple items that can fit within.
 
