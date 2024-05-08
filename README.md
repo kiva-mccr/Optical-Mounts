@@ -18,6 +18,12 @@ List of types of mounts:
 - Lenses
 - Prisms
 - Mirror plates
+- Parabolic mirrors
+- Oooo maybe a full 3D printed casagran telescope
+- slits & apetures
+- beam splitter (two prisms glued together with epoxy)
+- Maybe a lens processing and lapping machine
+- Maybe grating surfaces
 
 All items should be modular, for example in the case of the irises, they should fit into the lens mounts, create a generic mount and multiple items that can fit within.
 
